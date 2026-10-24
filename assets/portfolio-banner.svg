@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="380" viewBox="0 0 1120 380" role="img" aria-labelledby="title desc">
+  <title id="title">Artur Józefczak — aplikacje AI i automatyzacja</title>
+  <desc id="desc">Portfolio aplikacji desktopowych i webowych: JARVIS, IMPULS MARTA i Sterownik Studio.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0d1b2b"/><stop offset="1" stop-color="#080e18"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#58e0d5"/><stop offset="1" stop-color="#8bb7ff"/></linearGradient>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1a2b3e" stroke-width="0.7"/></pattern>
+  </defs>
+  <rect width="1120" height="380" rx="18" fill="url(#bg)"/>
+  <rect x="735" width="385" height="380" fill="url(#grid)" opacity="0.6"/>
+  <rect x="48" y="43" width="36" height="4" rx="2" fill="url(#accent)"/>
+  <text x="99" y="50" fill="#8fa6bd" font-family="DejaVu Sans,Arial,sans-serif" font-size="13" letter-spacing="3">WYBRANE PROJEKTY / PORTFOLIO</text>
+  <text x="48" y="124" fill="#f0f5fb" font-family="DejaVu Sans,Arial,sans-serif" font-size="52" font-weight="700" letter-spacing="-1.5">Artur Józefczak</text>
+  <text x="50" y="163" fill="#64ded3" font-family="DejaVu Sans,Arial,sans-serif" font-size="19">APLIKACJE AI   /   AUTOMATYZACJA   /   DESKTOP &amp; WEB</text>
+  <text x="48" y="224" fill="#f0f5fb" font-family="DejaVu Sans,Arial,sans-serif" font-size="27" font-weight="500">Od pomysłu do aplikacji.</text>
+  <text x="49" y="257" fill="#98adc3" font-family="DejaVu Sans,Arial,sans-serif" font-size="17">Interfejsy, integracje i konkretne przepływy pracy.</text>
+  <g font-family="DejaVu Sans,Arial,sans-serif" font-size="13" fill="#bdcee0">
+    <rect x="48" y="303" width="120" height="34" rx="7" fill="#142437" stroke="#294158"/><text x="75" y="325">JARVIS</text>
+    <rect x="180" y="303" width="173" height="34" rx="7" fill="#142437" stroke="#294158"/><text x="199" y="325">IMPULS · MARTA</text>
+    <rect x="365" y="303" width="178" height="34" rx="7" fill="#142437" stroke="#294158"/><text x="384" y="325">Sterownik Studio</text>
+  </g>
+  <g fill="none" stroke="#2b536b" stroke-width="1.3">
+    <path d="M817 113h-29v160h29"/><path d="M1001 113h28v160h-28"/>
+    <path d="M908 147v21m0 61v21" stroke="#58e0d5"/>
+  </g>
+  <g font-family="DejaVu Sans,Arial,sans-serif" text-anchor="middle">
+    <rect x="815" y="86" width="186" height="61" rx="10" fill="#12283a" stroke="#3c788b"/>
+    <circle cx="836" cy="106" r="3" fill="#58e0d5"/>
+    <text x="908" y="121" fill="#d8f8f3" font-size="16">INTERFEJS</text>
+    <rect x="815" y="168" width="186" height="61" rx="10" fill="#12283a" stroke="#3c788b"/>
+    <circle cx="836" cy="188" r="3" fill="#58e0d5"/>
+    <text x="908" y="203" fill="#d8f8f3" font-size="16">INTEGRACJE</text>
+    <rect x="815" y="250" width="186" height="61" rx="10" fill="#12283a" stroke="#3c788b"/>
+    <circle cx="836" cy="270" r="3" fill="#58e0d5"/>
+    <text x="908" y="285" fill="#d8f8f3" font-size="16">PRZEPŁYW PRACY</text>
+  </g>
+</svg>
